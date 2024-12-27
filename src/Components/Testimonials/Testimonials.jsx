@@ -39,7 +39,7 @@ const Testimonials = () => {
                      <img src={user_1} alt="" />
                      <div>
                        <h3>William Jackson</h3> 
-                       <span>Edusity, USA</span>
+                       <span>Learning Academy, USA</span>
                      </div>    
                     </div> 
                     <p>Choosing to pursue my degree at Edusity was one of the best decision i have ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations. </p>
@@ -51,7 +51,7 @@ const Testimonials = () => {
                      <img src={user_2} alt="" />
                      <div>
                        <h3>William Jackson</h3> 
-                       <span>Edusity, USA</span>
+                       <span>Learning Academy, USA</span>
                      </div>    
                     </div> 
                     <p>Choosing to pursue my degree at Edusity was one of the best decision i have ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations. </p>
@@ -63,7 +63,7 @@ const Testimonials = () => {
                      <img src={user_3} alt="" />
                      <div>
                        <h3>William Jackson</h3> 
-                       <span>Edusity, USA</span>
+                       <span>Learning Academy, USA</span>
                      </div>    
                     </div> 
                     <p>Choosing to pursue my degree at Edusity was one of the best decision i have ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations. </p>
@@ -75,7 +75,7 @@ const Testimonials = () => {
                      <img src={user_4} alt="" />
                      <div>
                        <h3>William Jackson</h3> 
-                       <span>Edusity, USA</span>
+                       <span>Learning Academy, USA</span>
                      </div>    
                     </div> 
                     <p>Choosing to pursue my degree at Edusity was one of the best decision i have ever made. The supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations. </p>
